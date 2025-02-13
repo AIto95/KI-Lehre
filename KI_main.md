@@ -4,7 +4,6 @@
   <source src="Video_KI.mp4" type="Video_KI.mp4">
 </video>
 
-
 **Inhalt**
 
 Nicht erst seit der Veröffentlichung von ChatGPT wird auch in den Geisteswissenschaften viel über künstliche Intelligenz diskutiert. Wir wollen uns anhand von aktuellen Texten Fragen der KI, der Schnittstelle von Philosophie und Informatik, und auch der ethischen Debatte annähern.
