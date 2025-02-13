@@ -1,18 +1,18 @@
 # Aktuelle philosophische Texte zu künstlicher Intelligenz (050801)
 
-<video width="640" height="360" autoplay muted loop>
-  <source src="Video_KI.mp4" type="Video_KI.mp4">
+<video autoplay muted loop>
+<source src="Video_KI.mp4" type="Video_KI.mp4">
 </video>
 
 **Inhalt**
 
 Nicht erst seit der Veröffentlichung von ChatGPT wird auch in den Geisteswissenschaften viel über künstliche Intelligenz diskutiert. Wir wollen uns anhand von aktuellen Texten Fragen der KI, der Schnittstelle von Philosophie und Informatik, und auch der ethischen Debatte annähern.
 
-* Moritz Riemann riemann@philsem.uni-kiel.de
+* Moritz Riemann <riemann@philsem.uni-kiel.de>
 
 * Sprechstundentermine im Sommersemester: **xxx**  |  Boschstraße 1, R. 01.001 | **Keine Anmeldung erforderlich** | Nach Absprache auch digital oder telephonisch unter 0431 880 5644
 
-## "Regierungserklärung" 
+## "Regierungserklärung"
 
 1. Die Teilnahme am Seminar erfordert die vorbereitende, gründliche Lektüre der Texte.
 
@@ -53,10 +53,10 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 | 07.07.2025| ---| -- |
 | 14.07.2025| **Abschlussdiskussion** | -- |
 
-**Prüfungszeitraum des aktuellen Semesters**: 
+**Prüfungszeitraum des aktuellen Semesters**:
 14.07. - 26.07.2025
 
-**2. Prüfungszeitraum**: 
+**2. Prüfungszeitraum**:
 06.10. - 18.10.2025
 
 **Termine für die Anmeldung zum 1. Prüfungszeitraum (1. PZ)**
