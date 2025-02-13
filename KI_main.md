@@ -9,7 +9,7 @@
 
 Nicht erst seit der Veröffentlichung von ChatGPT wird auch in den Geisteswissenschaften viel über künstliche Intelligenz diskutiert. Wir wollen uns anhand von aktuellen Texten Fragen der KI, der Schnittstelle von Philosophie und Informatik, und auch der ethischen Debatte annähern.
 
-* Moritz Riemann [riemann@philsem.uni-kiel.de]( riemann@philsem.uni-kiel.de)
+* Moritz Riemann riemann@philsem.uni-kiel.de
 
 * Sprechstundentermine im Sommersemester: **xxx**  |  Boschstraße 1, R. 01.001 | **Keine Anmeldung erforderlich** | Nach Absprache auch digital oder telephonisch unter 0431 880 5644
 
@@ -54,12 +54,11 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 | 07.07.2025| ---| -- |
 | 14.07.2025| **Abschlussdiskussion** | -- |
 
-**Prüfungszeitraum
-des aktuellen Semesters**: 14.07. -
-26.07.2025
+**Prüfungszeitraum des aktuellen Semesters**: 
+14.07. - 26.07.2025
 
-**2. Prüfungszeitraum**: 06.10. -
-18.10.2025
+**2. Prüfungszeitraum**: 
+06.10. - 18.10.2025
 
 **Termine für die Anmeldung zum 1. Prüfungszeitraum (1. PZ)**
 
