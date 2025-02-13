@@ -4,13 +4,14 @@
   <source src="video.mp4" type="video/mp4">
 </video>
 
+
 **Inhalt**
 
 Nicht erst seit der Veröffentlichung von ChatGPT wird auch in den Geisteswissenschaften viel über künstliche Intelligenz diskutiert. Wir wollen uns anhand von aktuellen Texten Fragen der KI, der Schnittstelle von Philosophie und Informatik, und auch der ethischen Debatte annähern.
 
 * Moritz Riemann [riemann@philsem.uni-kiel.de]( riemann@philsem.uni-kiel.de)
 
-* Sprechstundentermine im Sommersemester: **xxx**  | Boschstraße 1, R. 01.001 | **Keine Anmeldung erforderlich** | Nach Absprache auch digital oder telephonisch unter 0431 880 5644
+* Sprechstundentermine im Sommersemester: **xxx**  |  Boschstraße 1, R. 01.001 | **Keine Anmeldung erforderlich** | Nach Absprache auch digital oder telephonisch unter 0431 880 5644
 
 ## "Regierungserklärung" 
 
