@@ -1,14 +1,13 @@
 # Aktuelle philosophische Texte zu künstlicher Intelligenz (050801)
 
 <video width="640" height="360" autoplay muted loop>
-  <source src="Video_KI.mp4" type="Video_KI.video/mp4">
-
+<source src=" https://aito95.github.io/KI-Lehre/Video_KI.mp4" type="Video_KI.video/mp4">
 
 **Inhalt**
 
 Nicht erst seit der Veröffentlichung von ChatGPT wird auch in den Geisteswissenschaften viel über künstliche Intelligenz diskutiert. Wir wollen uns anhand von aktuellen Texten Fragen der KI, der Schnittstelle von Philosophie und Informatik, und auch der ethischen Debatte annähern.
 
-* Moritz Riemann <riemann@philsem.uni-kiel.de>
+* Moritz Riemann (<riemann@philsem.uni-kiel.de>)
 
 * Sprechstundentermine im Sommersemester: **xxx**  |  Boschstraße 1, R. 01.001 | **Keine Anmeldung erforderlich** | Nach Absprache auch digital oder telephonisch unter 0431 880 5644
 
