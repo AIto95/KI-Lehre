@@ -3,7 +3,6 @@
 <video width="640" height="360" autoplay muted loop controls>
   <source src="https://aito95.github.io/KI-Lehre/Video_KI.mp4" type="video/mp4">
 
-
 **Inhalt**
 
 Nicht erst seit der Veröffentlichung von ChatGPT wird auch in den Geisteswissenschaften viel über künstliche Intelligenz diskutiert. Wir wollen uns anhand von aktuellen Texten Fragen der KI, der Schnittstelle von Philosophie und Informatik, und auch der ethischen Debatte annähern.
