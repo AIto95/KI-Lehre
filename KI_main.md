@@ -1,7 +1,7 @@
 # Aktuelle philosophische Texte zu künstlicher Intelligenz (050801)
 
-<video width="640" height="360" autoplay muted loop>
-<source src=" https://aito95.github.io/KI-Lehre/Video_KI.mp4" type="Video_KI.video/mp4">
+<video width="640" height="360" >
+<source src=" https://aito95.github.io/KI-Lehre/Video_KI.mp4" type=""video/mp4">
 
 **Inhalt**
 
