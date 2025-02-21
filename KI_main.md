@@ -1,8 +1,8 @@
 # Aktuelle philosophische Texte zu künstlicher Intelligenz (050801)
 
-<video autoplay muted loop>
-<source src="Video_KI.mp4" type="Video_KI.mp4">
-</video>
+<video width="640" height="360" autoplay muted loop>
+  <source src="Video_KI.mp4" type="Video_KI.video/mp4">
+
 
 **Inhalt**
 
