@@ -1,6 +1,6 @@
 # Aktuelle philosophische Texte zu künstlicher Intelligenz (050801)
 
-![AI](AI_neural_ktsimage.jpg)
+<video src="AI.mp4" autoplay loop muted playsinline width="600"></video>
 
 **Inhalt**
 
@@ -36,9 +36,8 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 
 ## Semesterplan
 
-| **14.04.2025** | **Eröffnung, Organisatorisches** | **Referat** |
+| **21.04.2025** | **Eröffnung, Organisatorisches** | **Referat** |
 |------------|------------------------------|---------|
-| 21.04.2025 | ---- |---  |
 | 28.04.2025 | ---| -- |
 | 05.05.2025 |  ---| -- |
 | 12.05.2025 | ---| -- |
@@ -67,4 +66,5 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 * Beginn: 25.08.2025
 * Ende: 21.09.2025
 
-## 1. Sitzung am 14.04.2025
+## 1. Sitzung am 21.04.2025
+
