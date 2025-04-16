@@ -47,7 +47,7 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 | 09.06.2025| ---| -- |
 | 16.06.2025 | ---| -- |
 | 30.06.2025 |---| -- |
-| 07.07.2025| **Abschlussdiskussion** 
+| 07.07.2025| **Abschlussdiskussion** | -- |
 
 **Prüfungszeitraum des aktuellen Semesters**:
 14.07. - 26.07.2025
