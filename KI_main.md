@@ -32,7 +32,7 @@ Nicht erst seit der Veröffentlichung von ChatGPT wird auch in den Geisteswissen
 
 In den beiden Wahlpflichtmodulen BA7 und BA8 sind aus den drei Gegenstandsbereichen Naturphilosophie, Kulturphilosophie und Wissenschaftsphilosophie zwei verschiedene Gegenstandsbereiche zu wählen. Bitte beachten Sie also: Der im Modul BA7 gewählte Gegenstandsbereich muss ein anderer sein als der im Modul BA8 gewählte Gegenstandsbereich!
 
-Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der 30.09.2025. Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
+Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der  **30.08.2025**. Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
 
 ## Semesterplan
 
@@ -47,8 +47,7 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 | 09.06.2025| ---| -- |
 | 16.06.2025 | ---| -- |
 | 30.06.2025 |---| -- |
-| 07.07.2025| ---| -- |
-| 14.07.2025| **Abschlussdiskussion** | -- |
+| 07.07.2025| **Abschlussdiskussion** 
 
 **Prüfungszeitraum des aktuellen Semesters**:
 14.07. - 26.07.2025
